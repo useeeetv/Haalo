@@ -13,8 +13,6 @@ https://delivery.macan.live/stream/id_tvone/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan
 #EXTINF:0 group-title="Lokal",CNN Indonesia
 https://delivery.macan.live/stream/id_cnn/index.m3u8?token=gratisan
-#EXTINF:0 group-title="Lokal",CBN Indonesia
-https://delivery.macan.live/stream/id_cbnindonesia/index.m3u8?token=gratisan
 #EXTINF:0 group-title="Lokal",Jaktv
 https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=gratisan
 #EXTINF:0 group-title="Lokal",SCTV
@@ -31,6 +29,13 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:0 group-title="Lokal",RTV
 https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=gratisan
+#EXTINF:0 group-title="Lokal",CNBC Indonesia
+https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=gratisan
+#EXTINF:0 group-title="Lokal", DAAI TV
+https://delivery.macan.live/stream/id_daaitv/index.m3u8?token=gratisan
+#EXTINF:0 group-title="Lokal",Salam Tv
+https://delivery.macan.live/stream/id_salamtv/index.m3u8?token=gratisan
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OwJW4s.png" group-title="INDONESIA LOKAL", TRANS 7
