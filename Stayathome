@@ -42,8 +42,6 @@ https://delivery.macan.live/stream/id_beritasatu/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/tvri.png", TVRI Nasional
 https://delivery.macan.live/stream/id_tvri/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport HD" group-title="Lokal FTA" tvg-logo="https://macan.live/img/tvrisporthd.png", TVRI Sport HD
-https://delivery.macan.live/stream/tvrisporthd/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="Salam TV" group-title="Lokal FTA" tvg-logo="https://macan.live/img/salam_tv.png", Salam TV
 https://delivery.macan.live/stream/salam_tv/index.m3u8?token=gratisan
 
