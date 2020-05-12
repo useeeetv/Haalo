@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/net.png", NET.
 https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="RCTI.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/rcti.png", RCTI
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI.id" group-title="Lokal FTA" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg", RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MNCTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/mnctv.png", MNCTV
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
