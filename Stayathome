@@ -96,6 +96,13 @@ https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="FoxLife.id" group-title="Entertainment" tvg-logo="https://macan.live/img/fox_life.png", FOX Life (ex. Star World)
 https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+#EXTINF:-1 tvg-ID="" tvg-name="ChannelV.id" group-title="Entertainment" tvg-logo="https://macan.live/img/channel_v_int.png", Channel V. Int
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+#EXTINF:-1 tvg-ID="" tvg-name="tvN" group-title="Entertainment" tvg-logo="https://macan.live/img/tvn.png", tvN
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gratisan
+#EXTINF:-1 tvg-ID="" tvg-name="GEMChannel.id" group-title="Entertainment" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM TV
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=gratisan
+
 #EXTINF:-1 tvg-ID="" tvg-name="FOXMoviesPremium.id" group-title="Movies" tvg-logo="https://macan.live/img/fox_movies_premium.png", FOX Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="FOXActionMovies.id" group-title="Movies" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
@@ -136,12 +143,8 @@ https://delivery.macan.live/stream/scmlegend/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="FX.id" group-title="Movies" tvg-logo="https://macan.live/img/fx.png", FX
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="ChannelV.id" group-title="Entertainment" tvg-logo="https://macan.live/img/channel_v_int.png", Channel V. Int
-https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="tvN" group-title="Movies" tvg-logo="https://macan.live/img/tvn.png", tvN
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="GEMChannel.id" group-title="Entertainment" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM TV
-https://delivery.macan.live/stream/id_gem/index.m3u8?token=gratisan
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="AFC" group-title="Knowledge" tvg-logo="https://macan.live/img/afc.png", AFC
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="NHK World" group-title="News" tvg-logo="https://macan.live/img/nhk_world.png", NHK World
