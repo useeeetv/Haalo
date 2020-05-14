@@ -118,7 +118,6 @@ https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="GEMChannel.id" group-title="Entertainment" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM TV
 https://delivery.macan.live/stream/id_gem/index.m3u8?token=gratisan
-
 #EXTINF:-1 tvg-ID="" tvg-name="FOXMoviesPremium.id" group-title="Movies" tvg-logo="https://macan.live/img/fox_movies_premium.png", FOX Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="FOXActionMovies.id" group-title="Movies" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
@@ -167,8 +166,6 @@ https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_cna/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="Bloomberg" group-title="News" tvg-logo="https://macan.live/img/bloomberg.png", Bloomberg
 https://delivery.macan.live/stream/id_bloomberg/index.m3u8?token=gratisan
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="AFC" group-title="Knowledge" tvg-logo="https://macan.live/img/afc.png", AFC
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="NHK World" group-title="News" tvg-logo="https://macan.live/img/nhk_world.png", NHK World
@@ -181,87 +178,7 @@ https://delivery.macan.live/stream/id_foxsport2/index.m3u8?token=gratisan
 https://delivery.macan.live/stream/id_foxsport3/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-ID="" tvg-name="Fight Sport" group-title="Sports" tvg-logo="https://macan.live/img/fightsport.png", Fight Sport
 https://delivery.macan.live/stream/fightsport/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 1" group-title="Sports" tvg-logo="https://macan.live/img/macan-logo.png", MACAN Sport 1
+#EXTINF:-1 tvg-ID="beINSports1.id" group-title="Sports" tvg-logo="https://macan.live/img/bein_sports_1.png", beIN Sports 1 ID
 https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 2" group-title="Sports" tvg-logo="https://macan.live/img/macan-logo.png", MACAN Sport 2
+#EXTINF:-1 tvg-ID="beINSports2.id" group-title="Sports" tvg-logo="https://macan.live/img/bein_sports_2.png", beIN Sports 2 ID
 https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="UseeSports.id" group-title="Sports" tvg-logo="https://macan.live/img/useetv.png", Useesports 1
-https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="UseeSports.id" group-title="Sports" tvg-logo="https://macan.live/img/useetv.png", Useesports 2
-https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="Champions1" group-title="Sports" tvg-logo="https://macan.live/img/champions1.png", Champions 1 TV
-https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="Champions2" group-title="Sports" tvg-logo="https://macan.live/img/champions2.png", Champions 2 TV
-https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="NBCSN" group-title="Sports" tvg-logo="https://macan.live/img/nbcsn.png", NBCSN
-https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="eGGNetwork" group-title="Sports" tvg-logo="https://macan.live/img/egg_network.png", eGG Network
-https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroArena.my" group-title="Sports" tvg-logo="https://macan.live/img/arena.jpg", Astro Arena
-https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSuperSport1.my" group-title="Sports" tvg-logo="https://macan.live/img/assp.png", Astro Supersport 1
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="Sports" tvg-logo="https://macan.live/img/assp2.png", Astro Supersport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="Sports" tvg-logo="https://macan.live/img/assp3.png", Astro Supersport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="Sports" tvg-logo="https://macan.live/img/assp4.png", Astro Supersport 4
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroCricket.my" group-title="Sports" tvg-logo="https://macan.live/img/astro_cricket.png", Astro Cricket
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSetanta.my" group-title="Sports" tvg-logo="https:i/macan.live/img/astro_setanta.png", Astro Setanta
-https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroEurosport.my" group-title="Sports" tvg-logo="https://macan.live/img/astro_eurosport.png", Astro Eurosport
-https://delivery.macan.live/stream/macan_sport_42/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="WWE.us" group-title="Sports" tvg-logo="https://macan.live/img/wwe_network.png", Astro WWE Network
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="beINSports1.my" group-title="Sports" tvg-logo="https://macan.live/img/bein_malaysia.png", beIN Sports Malaysia
-https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSpecial1" group-title="Sports" tvg-logo="https://macan.live/img/bein_malaysia.png", beIN Sports MAX
-https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSpecial2" group-title="Sports" tvg-logo="https://macan.live/img/astro.png", Astro Sport Special 2
-https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSpecial3" group-title="Sports" tvg-logo="https://macan.live/img/astro.png", Astro Sport Special 3
-https://delivery.macan.live/stream/macan_sport_19/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="AstroSpecial4" group-title="Sports" tvg-logo="https://macan.live/img/astro.png", Astro Sport Special 4
-https://delivery.macan.live/stream/macan_sport_20/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="FOXSports1.my" group-title="Sports" tvg-logo="https://macan.live/img/fox_sports_1.png", FOX Sports 1 Malaysia
-https://delivery.macan.live/stream/macan_sport_21/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="FOXSports2.my" group-title="Sports" tvg-logo="https://macan.live/img/fox_sports_2.jpg", FOX Sports 2 Malaysia
-https://delivery.macan.live/stream/macan_sport_22/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="FOXSports3.my" group-title="Sports" tvg-logo="https://macan.live/img/fox_sport_3.jpeg", FOX Sports 3 Malaysia
-https://delivery.macan.live/stream/macan_sport_23/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport1.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 1
-https://delivery.macan.live/stream/macan_sport_24/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport2.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 2
-https://delivery.macan.live/stream/macan_sport_25/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport3.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 3
-https://delivery.macan.live/stream/macan_sport_26/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport4.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 4
-https://delivery.macan.live/stream/macan_sport_27/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport5.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 5
-https://delivery.macan.live/stream/macan_sport_28/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport6.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 6
-https://delivery.macan.live/stream/macan_sport_29/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport7.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 7
-https://delivery.macan.live/stream/macan_sport_30/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport8.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 8
-https://delivery.macan.live/stream/macan_sport_31/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport9.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 9
-https://delivery.macan.live/stream/macan_sport_32/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport10.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 10
-https://delivery.macan.live/stream/macan_sport_33/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport11.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 11
-https://delivery.macan.live/stream/macan_sport_34/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="SuperSport12.za" group-title="Sports" tvg-logo="https://macan.live/img/afs.png", AF Supersport 12
-https://delivery.macan.live/stream/macan_sport_35/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="RushSpecial" group-title="Sports" tvg-logo="https://macan.live/img/rush.png", RUSH Special
-https://delivery.macan.live/stream/macan_sport_36/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="Rush1" group-title="Sports" tvg-logo="https://macan.live/img/rush.png", RUSH 1
-https://delivery.macan.live/stream/macan_sport_37/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="Rush2" group-title="Sports" tvg-logo="https://macan.live/img/rush.png", RUSH 2
-https://delivery.macan.live/stream/macan_sport_38/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="Rush3" group-title="Sports" tvg-logo="https://macan.live/img/rush.png", RUSH 3
-https://delivery.macan.live/stream/macan_sport_39/index.m3u8?token=gratisan
-#EXTINF:-1 tvg-ID="Rush4" group-title="Sports" tvg-logo="https://macan.live/img/rush.png", RUSH 4
-https://delivery.macan.live/stream/macan_sport_40/index.m3u8?token=gratisan
