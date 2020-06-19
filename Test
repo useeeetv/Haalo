@@ -38,8 +38,6 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:0 tvg-id="illuzion+" group-title="MALAYSIA",Arena
 http://45.58.62.92:8080
 #EXTINF:0 tvg-id="tv3" group-title="MALAYSIA",TV3 Backup
-https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
-#EXTINF:0 tvg-id="tv3" group-title="MALAYSIA",TV3 Backup
 http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
@@ -53,6 +51,8 @@ http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="USEETV FULL",USEESPORT 1
 https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w773053101_b894100_sleng_176248.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USEETV FULL",USEESPORT 2
